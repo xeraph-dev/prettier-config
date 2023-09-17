@@ -1,6 +1,6 @@
 {
   "name": "@xeraph-dev/prettier-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An opinionated prettier config",
   "license": "MIT",
   "author": {
@@ -39,7 +39,7 @@
   "devDependencies": {
     "@changesets/cli": "^2.26.2",
     "@xeraph-dev/eslint-config": "^0.0.2",
-    "@xeraph-dev/prettier-config": "^0.0.3",
+    "@xeraph-dev/prettier-config": "^0.0.4",
     "husky": "^8.0.0"
   },
   "peerDependencies": {
