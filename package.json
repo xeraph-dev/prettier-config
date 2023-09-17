@@ -1,6 +1,6 @@
 {
   "name": "@xeraph-dev/prettier-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An opinionated prettier config",
   "license": "MIT",
   "author": {
