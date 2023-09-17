@@ -14,6 +14,12 @@ npm install --save-dev @xeraph-dev/prettier-config
 npm install --save-dev astro
 ```
 
+### To format prisma files
+
+```shell
+npm install --save-dev prisma
+```
+
 ### To format tailwind classnames
 
 ```shell
