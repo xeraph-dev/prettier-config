@@ -28,6 +28,7 @@ jobs:
         uses: changesets/action@v1
         with:
           publish: bun run release
+          commit: Version package
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

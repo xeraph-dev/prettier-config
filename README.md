@@ -26,6 +26,12 @@ npm install --save-dev prisma
 npm install --save-dev tailwindcss
 ```
 
+### To order css properties
+
+```shell
+npm install --save-dev postcss
+```
+
 ## Configuration
 
 ### Extend via _package.json_
